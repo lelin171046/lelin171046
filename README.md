@@ -1,16 +1,47 @@
-## Hi there 👋
-
+Hi, I'm Moniruzzaman Lelin 👋
 <!--
-**lelin171046/lelin171046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern web applications, data-driven dashboards, and digital solutions that help businesses work smarter and grow online.
 
-Here are some ideas to get you started:
+With a background in textile engineering and technology, I'm interested in connecting software, analytics, and manufacturing to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Who Am I?
+
+💻 Developing full-stack web applications using the MERN stack
+
+🧵 Background in Textile Engineering and Fabric Engineering
+
+🚀 Interested in business automation, e-commerce, and AI-powered applications
+
+🤝 Open to freelance projects, business opportunities, and collaborations
+
+🛠️ Tools & Technologies
+
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+
+Backend: Node.js, Express.js, REST APIs
+
+Database: MongoDB, SQL
+
+Data Analytics: Excel, data cleaning, data visualization, reporting
+
+Tools: Git, GitHub, VS Code, Postman, Vercel
+
+🔭 What I'm Currently Working On
+
+🛍️ Building an e-commerce platform with product management and order processing
+
+🏭 Developing a professional website for the garment manufacturing industry
+
+📊 Improving my data analysis and dashboard development skills
+
+🤖 Exploring AI-powered web applications and workflow automation
+
+🤝 How to Reach Me
+
+💼 LinkedIn: www.linkedin.com/in/m-monir-z
+
+🌐 Portfolio:https://zaman.gt.tc/
+
+📧 Email: lelin171046@gmail.com
+
+🐙 GitHub: @lelin171046
